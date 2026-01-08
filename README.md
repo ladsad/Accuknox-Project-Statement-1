@@ -43,6 +43,8 @@ python task2_students.py
 ```
 *Output*: Displays average score and counts in the console. Saves a bar chart as `student_scores_chart.png`.
 
+![Student Scores Chart](student_scores_chart.png)
+
 ### Task 3: CSV to Database Import
 Import user records from CSV to SQLite:
 ```bash
